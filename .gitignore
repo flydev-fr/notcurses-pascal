@@ -1,0 +1,23 @@
+# compiled artifacts
+*.exe
+*.dcu
+*.ppu
+*.o
+*.obj
+*.a
+*.or
+*.compiled
+lib/
+bin/
+
+# Delphi IDE noise
+__history/
+__recovery/
+*.identcache
+*.local
+*.dsk
+*.stat
+
+# Lazarus IDE noise
+backup/
+*.lps
